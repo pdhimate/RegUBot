@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RegU.V2/obj/Debug
+/RegU.V2/bin/Debug
+/.vs/RegU.V2/v14/.suo
